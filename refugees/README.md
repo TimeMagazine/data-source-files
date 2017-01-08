@@ -1,0 +1,3 @@
+# Refugees in the United States
+
+The means by which a refugee is admitted into the United States is not a complex process. When they do arrive, the [Refugee Processing Center](http://www.wrapsnet.org/#intro) has detailed information on which cities in the United States are hosting refugees from which nations by city. Skip straight to the [Interactive Reporting section](http://ireports.wrapsnet.org/). You probably want the "MX - Arrivals by Destination and Nationality" section. There, you can query anything you want, going back a considerable about of time. This is the data used in maps like the *New York Times*' [map](http://www.nytimes.com/interactive/2016/08/30/us/syrian-refugees-in-the-united-states.html?_r=0) of refugees by destination.
