@@ -122,6 +122,17 @@ for (worksheet in worksheets) {
   active_duty[NROW(active_duty)+1,] <- loaddata_13_15(worksheet)
 }
 
+# one more manual add from here
+# file:///Users/cwilson1130/Downloads/ms1_1611.pdf
+active_duty[NROW(active_duty)+1,] <- list(
+  year=2016,
+  month="September",
+  total= 1301308,
+  officers=228148,
+  enlisted=1060084
+)
+
+
 ggplot(active_duty, aes(x=year)) +
   geom_area(aes(y=total), fill="#CC0000") +
   geom_line(aes(y=total, color="black"), size=2) + 
