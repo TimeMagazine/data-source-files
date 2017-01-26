@@ -16,6 +16,12 @@ IPUMS CPS also has similar variables [CPS] (https://cps.ipums.org/cps-action/var
 
 Remittance data providdes an amazing insight into folks sending money back to their origin countries from income earned in source countries. It provides a different perspective on immigrants and their relationship to their home countries, also providing for data that could capture illegal immigrants remittances (if they send money back through any legitimate channel). Also on the same page is Migration Data from the World Bank that is updated regularly.
 
+[Immigration Court Data - TRAC] (http://trac.syr.edu/phptools/reports/reports.php?layer=immigration&report_type=tool)
+
+Transaction Records Clearing House has a lot of data on immigration related issues, especially data on Deportations, Immigration backlog, Deportation Proceedings among others.
+
+Most interesting to me here, has been the Juvenile and the Women with Children pieces of their data repo.
+
 [Foreign born workers - Bureau of Labor Statistics] (https://www.bls.gov/cps/demographics.htm#foreignborn)
 
 Data on foreign bork workers, extracted from the CPS data (linked above) with other data estimates w.r.t. Unemployment and Wages.
@@ -35,3 +41,5 @@ They provide links to lots of other sources of data, including synthetic sources
 This contains data from a survey that has been performed since 1982 in both US and Mexico that tracks a vast range of indicators on demographic, economic and also migratory details for people that have migrated to the U.S. - also details on the migratory experience, where they crossed (border crossings), data from other members in the household.
 
 **From Source Website**: *As of October 2015, it comprises of 154 communities with a total of 25,658 households interviewed: 24,701 households surveyed in Mexico and 957 households surveyed in the United States. It provides individual level data on 80,211 males and 82,077 females, for a total of 162,293 persons. It contains information about 8,252 household heads with migration experience to the U.S. The life history file has a total of 1,251,881 person-years for analysis; 390,895 person-years correspond to persons with U.S. migration experience. The spouse file has a total of 718,112 person-years for analysis; 50,965 person-years correspond to persons with U.S. migration experience.*
+
+P.R. 26/1
